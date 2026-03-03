@@ -1,5 +1,7 @@
-# Call Taxi Booking System
+# Call Taxi Booking System[Manual Input]
  <img width="1360" height="637" alt="image" src="https://github.com/user-attachments/assets/7b13c087-46ec-4239-9b0c-4a7eb2ac5193" />
+ # Call Taxi Booking System[User Input]
+![Uploading image.png…]()
 
 ## 🚖 **Project Overview**
 
