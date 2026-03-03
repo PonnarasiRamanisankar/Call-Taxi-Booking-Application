@@ -15,7 +15,7 @@ public class CallTaxiMain {
         service.displayTaxiDetails();
     }
 } 
-/*
+/* USER INPUT
 package com.calltaxi.main;
 
 import com.calltaxi.service.TaxiBookingService;
